@@ -17,7 +17,7 @@ const initQs = [
     }
 ]
 
-co
+
 
 module.exports = {
     initQs
