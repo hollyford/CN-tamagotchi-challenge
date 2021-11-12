@@ -1,7 +1,7 @@
 const initQs = [
     {
         type: "list",
-        name: "petType",
+        name: "type",
         message: "What type of Pet would you like to choose?",
         choices: [
             "Dog",
@@ -12,8 +12,8 @@ const initQs = [
     },
     {
         type: "input",
-        name: "petName",
-        message: "What is your pets name?"
+        name: "name",
+        message: "What is your pet's name?"
     }
 ]
 
